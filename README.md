@@ -7,3 +7,7 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Armaghan-Bashir-ch&theme=tokyo-day&custom_title=Contribution%20Graph)
 
 ![Wakatime](https://wakatime.com/badge/user/76123457-8846-43db-95b0-bec38b051726.svg)
+
+
+![GitHub Stats Overview](https://github-stats.vercel.
+app/api?username=Armaghan-Bashir-ch&show_icons=true&theme=gruvbox_light)
