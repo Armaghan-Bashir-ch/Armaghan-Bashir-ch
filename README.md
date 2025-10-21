@@ -4,4 +4,4 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Armaghan-Bashir-ch&theme=gruvbox_light)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Armaghan)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Armaghan)
