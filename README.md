@@ -3,5 +3,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armaghan-Bashir-ch&layout=compact&theme=gruvbox_light)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Armaghan-Bashir-ch&theme=gruvbox_light)
-
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Armaghan)
