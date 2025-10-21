@@ -1,5 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.
-app/api?username=Armaghan-Bashir-ch&show_icons=true&include_all_commits=true&theme=Nord)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Armaghan-Bashir-ch&hide=contribs,prs&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Armaghan-Bashir-ch&theme=Nord)
 
