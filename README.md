@@ -2,4 +2,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armaghan-Bashir-ch&layout=compact&theme=tokyonight)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Armaghan-Bashir-ch&theme=Nord)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Armaghan-Bashir-ch&theme=tokyonight)
