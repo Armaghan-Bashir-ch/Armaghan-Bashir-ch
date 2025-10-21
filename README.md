@@ -14,7 +14,7 @@ alt="Languages Badge">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Armaghan-Bashir-ch&api_domain=wakatime.
 com&layout=compact" width="200" alt="Editors Badge">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Armaghan-Bashir-ch&api_domain=wakatime.
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Armaghan&api_domain=wakatime.
 com&layout=compact" width="200" alt="Operating Systems Badge">
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Armaghan-Bashir-ch&api_domain=wakatime.
