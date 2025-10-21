@@ -8,5 +8,20 @@
 
 ![Wakatime](https://wakatime.com/badge/user/76123457-8846-43db-95b0-bec38b051726.svg)
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Armaghan-Bashir-ch&layout=compact" width="200"
+alt="Languages Badge">
 
-![GitHub Stats Overview](https://github-stats.vercel.app/api?username=Armaghan-Bashir-ch&show_icons=true&theme=gruvbox_light)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Armaghan-Bashir-ch&api_domain=wakatime.
+com&layout=compact" width="200" alt="Editors Badge">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Armaghan-Bashir-ch&api_domain=wakatime.
+com&layout=compact" width="200" alt="Operating Systems Badge">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Armaghan-Bashir-ch&api_domain=wakatime.
+com&layout=compact" width="200" alt="Projects Badge">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Armaghan-Bashir-ch&range=last_7_days" width="200"
+alt="Time Stats Badge">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Armaghan-Bashir-ch&api_domain=wakatime.
+com&layout=compact" width="200" alt="Best Day Badge">
