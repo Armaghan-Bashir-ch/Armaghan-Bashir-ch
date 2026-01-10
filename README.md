@@ -1,14 +1,23 @@
 # GitHub Stats
 
-![Armaghan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Armaghan-Bashir-ch&show_icons=true&theme=tokyonight&count_private=true)
+<h2 align="center">Languages, Frameworks & Tools</h2>
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Armaghan-Bashir-ch&layout=compact&theme=tokyonight)
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,django,angular,solidity" />
+    <img src="https://skillicons.dev/icons?i=rust,nodejs,python,javascript,mysql,postgres,docker,typescript" /><br>
+</div>
 
-![Most Commit Language](https://github-readme-stats.vercel.app/api/most-commit-language?username=Armaghan-Bashir-ch&theme=tokyonight)
+<br/>
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Armaghan-Bashir-ch&theme=tokyonight&show_icons=true&hide=prs)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Armaghan-Bashir-ch/Armaghan-Bashir-ch/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
+    <img src="https://raw.githubusercontent.com/Armaghan-Bashir-ch/Armaghan-Bashir-ch/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
+    <img src="https://raw.githubusercontent.com/Armaghan-Bashir-ch/Armaghan-Bashir-ch/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
+    <img src="https://raw.githubusercontent.com/Armaghan-Bashir-ch/Armaghan-Bashir-ch/main/profile-summary-card-output/nord_dark/3-stats.svg" />
+    <img src="https://raw.githubusercontent.com/Armaghan-Bashir-ch/Armaghan-Bashir-ch/main/profile-summary-card-output/nord_dark/4-productive-time.svg" />
+</div>
 
-![Productive Time](https://github-readme-stats.vercel.app/api/productive-time?username=Armaghan-Bashir-ch&theme=tokyonight&utcOffset=0)
 
 ## TODO:
 Update this sometime soon
